@@ -360,7 +360,10 @@
 "Assets/Scripts/Structs/Helper.cs"
 "Assets/Scripts/Structs/MouseSensitivity.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
+<<<<<<< Updated upstream
 "Assets/Wapoelqueloleauwu.cs"
+=======
+>>>>>>> Stashed changes
 -langversion:9.0
 
 /deterministic
